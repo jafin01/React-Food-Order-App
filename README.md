@@ -17,7 +17,7 @@ NOTE: Please read the RUN section before opening an issue.
 
 ## Demo
 
-![This is an image](/MiniProjecthome.JPG)
+![This is an image](/food order app.png)
 ## Run
 
 To run this application, run `npm start` in the root of the project folder
